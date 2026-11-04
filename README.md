@@ -22,3 +22,16 @@ Portafolio web: **[sagazarias.github.io](https://sagazarias.github.io)**
 - **Herramientas:** Git, GitHub, Android Studio, EAS Build
 
 Cada repositorio tiene un README con la descripción del proyecto, su arquitectura, cómo se construyó, cómo ejecutarlo y cómo correr sus pruebas.
+
+---
+
+## In English
+
+I'm a Computer Engineering student at ESPOL (Guayaquil, Ecuador) who builds complete products: data model, backend and the app people use. Upper-intermediate English (B2).
+
+- **[ESPOL Transport API](https://github.com/SagazArias/espol-transport-api)**: REST API for student carpooling (schedules, zone matching, bookings with seat limits, ratings). FastAPI, PostgreSQL, Alembic and JWT, deployed on Render with [live docs](https://espol-transport.onrender.com/docs), and end-to-end tests against PostgreSQL in CI.
+- **[ESPOL Transport Android](https://github.com/SagazArias/espol-transport-android)**: native Android client in Kotlin and Jetpack Compose (MVVM), with light and dark themes and a [downloadable APK](https://github.com/SagazArias/espol-transport-android/releases/latest).
+- **[MiEspol](https://github.com/SagazArias/MiEspol)**: campus app in React Native and Expo. It computes weather-aware walking routes with Dijkstra over a pedestrian graph built from OpenStreetMap plus a hand-annotated map of the campus.
+- **[Web portfolio](https://sagazarias.github.io)**: hand-written sites in HTML, CSS and JavaScript, with no frameworks.
+
+The project READMEs are in Spanish; each one covers the architecture, how it was built, how to run it and how to run its tests.
