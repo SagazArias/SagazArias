@@ -4,6 +4,8 @@ Desarrollador de software enfocado en aplicaciones móviles, APIs y sitios web. 
 
 Portafolio web: **[sagazarias.github.io](https://sagazarias.github.io)**
 
+Contacto: [LinkedIn](https://www.linkedin.com/in/samuel-arias-gonzalez/) · [sagazarias1@hotmail.com](mailto:sagazarias1@hotmail.com)
+
 ## Proyectos destacados
 
 | Proyecto | Qué es | Stack |
@@ -28,6 +30,8 @@ Cada repositorio tiene un README con la descripción del proyecto, su arquitectu
 ## In English
 
 I'm a Computer Engineering student at ESPOL (Guayaquil, Ecuador) who builds complete products: data model, backend and the app people use. Upper-intermediate English (B2).
+
+Contact: [LinkedIn](https://www.linkedin.com/in/samuel-arias-gonzalez/) · [sagazarias1@hotmail.com](mailto:sagazarias1@hotmail.com)
 
 - **[ESPOL Transport API](https://github.com/SagazArias/espol-transport-api)**: REST API for student carpooling (schedules, zone matching, bookings with seat limits, ratings). FastAPI, PostgreSQL, Alembic and JWT, deployed on Render with [live docs](https://espol-transport.onrender.com/docs), and end-to-end tests against PostgreSQL in CI.
 - **[ESPOL Transport Android](https://github.com/SagazArias/espol-transport-android)**: native Android client in Kotlin and Jetpack Compose (MVVM), with light and dark themes and a [downloadable APK](https://github.com/SagazArias/espol-transport-android/releases/latest).
